@@ -1,4 +1,4 @@
 [submodule "FSub"]
 	path = FSub
-	url = git@github.com:ugorwx/fsub
+	url = git@github.com:karaminarani/fsubher
 	branch = staging
